@@ -1,6 +1,9 @@
 # TwoFactoryAuthentication
 
-Nesse projeto, eu criei um verificação em duas etapas.
+Este projeto implementa um sistema de autenticação em duas etapas.
+
+## Descrição
+Neste projeto, foi desenvolvida uma solução de autenticação em duas etapas para garantir a segurança do login do usuário. O sistema funciona da seguinte forma:
 
 1° O usuario faz o cadastro no banco de dados.
 
@@ -16,13 +19,39 @@ Nesse projeto, eu criei um verificação em duas etapas.
 
 ![image](https://user-images.githubusercontent.com/69482936/175385133-c0d1d333-d137-41d9-862d-1faaf8917213.png)
 
-Isso foi feito usando a API JavaMail
+Esse projeto foi desenvolvido com fins acadêmicos e teve os seguintes objetivos:
 
-Esse projeto com fins academicos foi feito para:
+- Aprofundar o conhecimento em bancos de dados e sua integração com a IDE.
+- Colocar em prática os conceitos de CRUD (Create, Read, Update, Delete).
+- Entender e utilizar o Maven para facilitar o gerenciamento de dependências.
 
-Entender um pouco melhor sobre os banco de dados e como integrar com a IDLE.
+## Instalação
 
-Como colocar em pratica os conceitos de CRUD.
+1. Faça o clone deste repositório para o seu ambiente local.
 
-Enteder como funciona e como facilita os projetos o uso do MAVEN.
+2. Certifique-se de ter o Java e o Maven instalados em seu sistema.
 
+3. Execute o comando `mvn install` para instalar as dependências do projeto.
+
+## Uso
+
+1. Configure as informações do banco de dados no arquivo `application.properties`.
+
+2. Compile e execute o projeto usando o comando `mvn spring-boot:run`.
+
+3. Acesse o programa e siga as instruções para criar um novo usuário e realizar o login com autenticação em duas etapas.
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você deseja colaborar com este projeto, siga as diretrizes abaixo:
+
+- Abra um pull request para propor alterações ou adições ao código.
+- Relate qualquer problema ou forneça feedback na seção de problemas (issues) do repositório.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+## Contato
+
+Se você tiver alguma dúvida ou sugestão em relação a este projeto, entre em contato por e-mail: [seu-email@example.com](mailto:seu-email@example.com).
