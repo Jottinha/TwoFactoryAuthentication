@@ -43,10 +43,7 @@ Esse projeto foi desenvolvido com fins acadêmicos e teve os seguintes objetivos
 
 ## Contribuição
 
-Contribuições são bem-vindas! Se você deseja colaborar com este projeto, siga as diretrizes abaixo:
-
-- Abra um pull request para propor alterações ou adições ao código.
-- Relate qualquer problema ou forneça feedback na seção de problemas (issues) do repositório.
+Este projeto é apenas um exemplo acadêmico e não está aberto para contribuições externas. Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
 
 ## Licença
 
