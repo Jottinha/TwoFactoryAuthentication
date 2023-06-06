@@ -49,6 +49,3 @@ Este projeto é apenas um exemplo acadêmico e não está aberto para contribui�
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
-## Contato
-
-Se você tiver alguma dúvida ou sugestão em relação a este projeto, entre em contato por e-mail: [seu-email@example.com](mailto:seu-email@example.com).
